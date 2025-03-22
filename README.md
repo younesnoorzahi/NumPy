@@ -17,4 +17,4 @@
 
 - <a href="https://numpy.org/doc/">NumPy Documentation</a>
 - <a href="https://numpy.org/doc/stable/user/quickstart.html">NumPy Quickstart Tutorial</a>
-- <a href="#">NumPy Cheat Sheet</a>
+- <a href="https://intellipaat.com/blog/wp-content/uploads/2022/10/Python-Numpy-Cheat-Sheet-2022.pdf">NumPy Cheat Sheet</a>
