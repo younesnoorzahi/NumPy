@@ -1,4 +1,4 @@
-<img src="NumPy_logo.svg.png" alt="numpy img" style="align-items: center;">
+<img src="NumPy_logo.svg.png" alt="numpy img">
 <h1>NumPy</h1>
 <p>NumPy (Numerical Python) is a fundamental library in Python for scientific computing. It provides support for arrays, matrices, and many mathematical functions to operate on these data structures efficiently. Below is a guide on how to install and use NumPy in Python.</p>
 
